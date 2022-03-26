@@ -14,22 +14,22 @@
 
 # 🔗 ᴀɴ ᴏᴠᴇʀᴠɪᴇᴡ
 
-ʜᴇʀᴇ's ᴀ ʙʀɪᴇғ ʜɪɢʜ-ʟᴇᴠᴇʟ ᴏᴠᴇʀᴠɪᴇᴡ ᴏғ ᴛʜᴇ sᴀɴᴛʜᴜ Music ʙᴏᴛ:
+ʜᴇʀᴇ's ᴀ ʙʀɪᴇғ ʜɪɢʜ-ʟᴇᴠᴇʟ ᴏᴠᴇʀᴠɪᴇᴡ ᴏғ ᴛʜᴇ sᴀɴᴛʜᴜ ᴍᴜsɪᴄ ʙᴏᴛ:
 
-This project is based on [Pyrogram](https://github.com/pyrogram) and [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls) . Pyrogram is a modern, elegant and asynchronous MTProto API framework.
+ᴛʜɪs ᴘʀᴏᴊᴇᴄᴛ ɪs ʙᴀsᴇᴅ ᴏɴ [ᴘʏʀᴏɢʀᴀᴍ🔥](https://github.com/pyrogram) ᴀɴᴅ [ᴘʏ-ᴛɢᴄᴀʟʟs](https://github.com/pytgcalls/pytgcalls) . ᴘʏʀᴏɢʀᴀᴍ ɪs ᴀ ᴍᴏᴅᴇʀɴ, ᴇʟᴇɢᴀɴᴛ ᴀɴᴅ ᴀsʏɴᴄʜʀᴏɴᴏᴜs ᴍᴛᴘʀᴏᴛᴏ ᴀᴘɪ ғʀᴀᴍᴇᴡᴏʀᴋ.
 
-* For database, Yukki uses the MongoDB to store data and keys. [MongoDB](https://www.mongodb.com/) is a document database with the scalability and flexibility that you want with the querying and indexing that you need.
-* Project uses the bs4 web scrapping for getting many platform details. [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) is a Python library for pulling data out of HTML and XML files.
-* The project uses the font [`Raleway`](../assets/font2.ttf) as its main font for the thumbnails.
-* The projects uses attractive images and icons which you can get in [assets](../assets/) directory.
+* ғᴏʀ ᴅᴀᴛᴀʙᴀsᴇ, ʏᴜᴋᴋɪ ᴜsᴇs ᴛʜᴇ ᴍᴏɴɢᴏᴅʙ ᴛᴏ sᴛᴏʀᴇ ᴅᴀᴛᴀ ᴀɴᴅ ᴋᴇʏs. [ᴍᴏɴɢᴏᴅʙ](ʜᴛᴛᴘs://ᴡᴡᴡ.ᴍᴏɴɢᴏᴅʙ.ᴄᴏᴍ/) ɪs ᴀ ᴅᴏᴄᴜᴍᴇɴᴛ ᴅᴀᴛᴀʙᴀsᴇ ᴡɪᴛʜ ᴛʜᴇ sᴄᴀʟᴀʙɪʟɪᴛʏ ᴀɴᴅ ғʟᴇxɪʙɪʟɪᴛʏ ᴛʜᴀᴛ ʏᴏᴜ ᴡᴀɴᴛ ᴡɪᴛʜ ᴛʜᴇ ǫᴜᴇʀʏɪɴɢ ᴀɴᴅ ɪɴᴅᴇxɪɴɢ ᴛʜᴀᴛ ʏᴏᴜ ɴᴇᴇᴅ.
+* ᴘʀᴏᴊᴇᴄᴛ ᴜsᴇs ᴛʜᴇ ʙs𝟺 ᴡᴇʙ sᴄʀᴀᴘᴘɪɴɢ ғᴏʀ ɢᴇᴛᴛɪɴɢ ᴍᴀɴʏ ᴘʟᴀᴛғᴏʀᴍ ᴅᴇᴛᴀɪʟs. [ʙᴇᴀᴜᴛɪғᴜʟ sᴏᴜᴘ](ʜᴛᴛᴘs://ᴡᴡᴡ.ᴄʀᴜᴍᴍʏ.ᴄᴏᴍ/sᴏғᴛᴡᴀʀᴇ/ʙᴇᴀᴜᴛɪғᴜʟsᴏᴜᴘ/ʙs𝟺/ᴅᴏᴄ/) ɪs ᴀ ᴘʏᴛʜᴏɴ ʟɪʙʀᴀʀʏ ғᴏʀ ᴘᴜʟʟɪɴɢ ᴅᴀᴛᴀ ᴏᴜᴛ ᴏғ ʜᴛᴍʟ ᴀɴᴅ xᴍʟ ғɪʟᴇs.
+* ᴛʜᴇ ᴘʀᴏᴊᴇᴄᴛ ᴜsᴇs ᴛʜᴇ ғᴏɴᴛ [`ʀᴀʟᴇᴡᴀʏ`](../ᴀssᴇᴛs/ғᴏɴᴛ𝟸.ᴛᴛғ) ᴀs ɪᴛs ᴍᴀɪɴ ғᴏɴᴛ ғᴏʀ ᴛʜᴇ ᴛʜᴜᴍʙɴᴀɪʟs.
+* ᴛʜᴇ ᴘʀᴏᴊᴇᴄᴛs ᴜsᴇs ᴀᴛᴛʀᴀᴄᴛɪᴠᴇ ɪᴍᴀɢᴇs ᴀɴᴅ ɪᴄᴏɴs ᴡʜɪᴄʜ ʏᴏᴜ ᴄᴀɴ ɢᴇᴛ ɪɴ [ᴀssᴇᴛs](../ᴀssᴇᴛs/) ᴅɪʀᴇᴄᴛᴏʀʏ.
 
-For more information on the technologies that power the Yukki Music Bot, check out the [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/).
+For more information on the technologies that power the sᴀɴᴛʜᴜ ᴍᴜsɪᴄ ʙᴏᴛ, check out the [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/).
 
 
 
-# ⚡️ Getting Started
+# ⚡️ ɢᴇᴛᴛɪɴɢ sᴛᴀʀᴛᴇᴅ
 
-### Before deploying Yukki Music Bot , please have a look towards [all available config vars](../config/README.md) , also please check [all available commands](../strings/command.yml) of the project.
+### ʙᴇғᴏʀᴇ ᴅᴇᴘʟᴏʏɪɴɢ sᴀɴᴛʜᴜ ᴍᴜsɪᴄ ʙᴏᴛ , ᴘʟᴇᴀsᴇ ʜᴀᴠᴇ ᴀ ʟᴏᴏᴋ ᴛᴏᴡᴀʀᴅs [all available config vars](../config/README.md) , also please check [all available commands](../strings/command.yml) of the project.
 
 > If you want to start working with Yukki Music Bot you can either fork or import repo .
 > The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
@@ -98,7 +98,7 @@ Reach out to the maintainer at one of the following places:
 If you want to say **thank you** or/and support active development of YukkiMusicBot:
 
 - Add a [GitHub Star](https://github.com/TeamYukki/YukkiMusicBot) to the project.
-- Fork the Repo :)
+- Fork the Repo :) 
 - Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
 
 PS: You can buy me a coffee too :)
