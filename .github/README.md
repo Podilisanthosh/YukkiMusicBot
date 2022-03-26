@@ -1,6 +1,6 @@
 <img src="https://telegra.ph/file/52771fab9aa447154ecfd.jpg" align="right" width="200" height="200"/>
 
-# sᴀɴᴛʜᴜ ᴍᴜsɪᴄ ʙᴏᴛ <img src="https://img.shields.io/github/v/release/Podilisanthosh/YukkiMusicBot?color=pink&logo=github&logoColor=yellow&style=social" alt="RELEASE">
+# sᴀɴᴛʜᴜ ᴍᴜsɪᴄ ʙᴏᴛ <img src="https://img.shields.io/github/v/star/Podilisanthosh/YukkiMusicBot?color=pink&logo=github&logoColor=yellow&style=social" alt="STAR">
 
 [sᴀɴᴛʜᴜ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/Podilisanthosh/YukkiMusicBot?organization=Podilisanthosh&organization=Podilisanthosh) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
@@ -8,7 +8,7 @@
 * ᴡʀɪᴛᴛᴇɴ ғʀᴏᴍ sᴄʀᴀᴛᴄʜ, ᴍᴀᴋɪɴɢ ɪᴛ sᴛᴀʙʟᴇ ᴀɴᴅ ʟᴇss ᴄʀᴀsʜᴇs.
 * ᴀᴛᴛʀᴀᴄᴛɪᴠᴇ ᴛʜᴜᴍʙɴᴀɪʟs, ғᴏɴᴛs ᴀɴᴅ ɪᴍᴀɢᴇs,  ᴍᴀᴋɪɴɢ ᴇxᴘᴇʀɪᴇɴᴄᴇ ᴍᴏʀᴇ ᴜsᴇʀ-ғʀɪᴇɴᴅʟʏ ᴀɴᴅ ɪɴᴛᴇʀᴀᴄᴛɪᴠᴇ.
 * ʟᴏᴏᴘ, sᴇᴇᴋ, sʜᴜғғʟᴇ, sᴘᴇᴄɪғɪᴄ sᴋɪᴘ, ᴘʟᴀʏʟɪsᴛs ᴇᴛᴄ sᴜᴘᴘᴏʀᴛ
-* ɢʟᴏʙᴀʟ, ᴜsᴇʀs, ᴄʜᴀᴛs ᴛᴏᴘ 𝟷𝟶 ᴘʟᴀʏᴇᴅ ᴛʀᴀᴄᴋs sᴛᴀᴛs
+* ɢʟᴏʙᴀʟ, ᴜsᴇʀs, ᴄʜᴀᴛs ᴛᴏᴘ 𝟷𝟶 ᴘʟᴀʏᴇᴅ ᴛʀᴀᴄᴋs sᴛᴀᴛs... 
 * ᴍᴜʟᴛɪ-ʟᴀɴɢᴜᴀɢᴇ sᴜᴘᴘᴏʀᴛ
 
 
