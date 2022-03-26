@@ -23,63 +23,36 @@
 * ᴛʜᴇ ᴘʀᴏᴊᴇᴄᴛ ᴜsᴇs ᴛʜᴇ ғᴏɴᴛ [`ʀᴀʟᴇᴡᴀʏ`](../ᴀssᴇᴛs/ғᴏɴᴛ𝟸.ᴛᴛғ) ᴀs ɪᴛs ᴍᴀɪɴ ғᴏɴᴛ ғᴏʀ ᴛʜᴇ ᴛʜᴜᴍʙɴᴀɪʟs.
 * ᴛʜᴇ ᴘʀᴏᴊᴇᴄᴛs ᴜsᴇs ᴀᴛᴛʀᴀᴄᴛɪᴠᴇ ɪᴍᴀɢᴇs ᴀɴᴅ ɪᴄᴏɴs ᴡʜɪᴄʜ ʏᴏᴜ ᴄᴀɴ ɢᴇᴛ ɪɴ [ᴀssᴇᴛs](../ᴀssᴇᴛs/) ᴅɪʀᴇᴄᴛᴏʀʏ.
 
-For more information on the technologies that power the sᴀɴᴛʜᴜ ᴍᴜsɪᴄ ʙᴏᴛ, check out the [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/).
-
-
 
 # ⚡️ ɢᴇᴛᴛɪɴɢ sᴛᴀʀᴛᴇᴅ
 
 ### ʙᴇғᴏʀᴇ ᴅᴇᴘʟᴏʏɪɴɢ sᴀɴᴛʜᴜ ᴍᴜsɪᴄ ʙᴏᴛ , ᴘʟᴇᴀsᴇ ʜᴀᴠᴇ ᴀ ʟᴏᴏᴋ ᴛᴏᴡᴀʀᴅs [all available config vars](../config/README.md) , also please check [all available commands](../strings/command.yml) of the project.
 
-> If you want to start working with Yukki Music Bot you can either fork or import repo .
-> The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
-> If you'd like to talk to us, join us on our [Telegram Group](https://t.me/YukkiSupport)
+> ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴛᴏ sᴛᴀʀᴛ ᴡᴏʀᴋɪɴɢ ᴡɪᴛʜ sᴀɴᴛʜᴜ ᴍᴜsɪᴄ ʙᴏᴛ ʏᴏᴜ ᴄᴀɴ ᴇɪᴛʜᴇʀ ғᴏʀᴋ ᴏʀ ɪᴍᴘᴏʀᴛ ʀᴇᴘᴏ.
+> ᴊᴏɪɴ ᴏғғɪᴄɪᴀʟ ᴄʜᴀɴɴᴇʟ [ᴄʜᴀɴɴᴇʟ](https://t.me/santhubotupadates) 
+> ɪғ ʏᴏᴜ'ᴅ ʟɪᴋᴇ ᴛᴏ ᴛᴀʟᴋ ᴛᴏ ᴜs, ᴊᴏɪɴ ᴜs ᴏɴ ᴏᴜʀ [ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘ](https://t.me/santhuvc)
 
 
-## 🖇 Prerequisites
+## 🖇 ᴘʀᴇʀᴇǫᴜɪsɪᴛᴇs
 
-> In order to avoid conflicts in your project, you must have/installed
+> ɪɴ ᴏʀᴅᴇʀ ᴛᴏ ᴀᴠᴏɪᴅ ᴄᴏɴғʟɪᴄᴛs ɪɴ ʏᴏᴜʀ ᴘʀᴏᴊᴇᴄᴛ, ʏᴏᴜ ᴍᴜsᴛ ʜᴀᴠᴇ/ɪɴsᴛᴀʟʟᴇᴅ
 
-- [Python3.9](https://www.python.org/downloads/release/python-390/)
-- [Telegram API Key](https://docs.pyrogram.org/intro/setup#api-keys)
-- [Telegram Bot Token](https://t.me/botfather)
-- [MongoDB URI](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/mongodb)
-- [Pyrogram String Session](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/string-session)
-
-
-## 🖇 Generating Pyrogram String Session
-
-- Generate a Pyrogram String Session via [Replit](https://replit.com/@NotReallyShikhar/Yukki-Music-String-Gen)
-
-- Generate a Pyrogram String Session via [Telegram String Generation Bot](https://t.me/YukkiStringBot)
+- [ᴘʏᴛʜᴏɴ𝟹.𝟿](https://www.python.org/downloads/release/python-390/)
+- [ᴛᴇʟᴇɢʀᴀᴍ ᴀᴘɪ ᴋᴇʏ](https://docs.pyrogram.org/intro/setup#api-keys)
+- [ᴛᴇʟᴇɢʀᴀᴍ ʙᴏᴛ Token](https://t.me/botfather)
+- [ᴍᴏɴɢᴏᴅʙ ᴜʀɪ](https://account.mongodb.com/account)
+- [ᴘʏʀᴏɢʀᴀᴍ sᴛʀɪɴɢ sᴇssɪᴏɴ](https://replit.com/@ErichDaniken/Generate-Telegram-String-Session)
 
 
-## 🚀 Heroku Deployment
+## 🖇 ɢᴇɴᴇʀᴀᴛɪɴɢ ᴘʏʀᴏɢʀᴀᴍ sᴛʀɪɴɢ sᴇssɪᴏɴ
 
-<h4>Click the button below to deploy Yukki on Heroku!</h4>    
-<a href="https://yukki.tech/deploy/"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
+- ɢᴇɴᴇʀᴀᴛᴇ ᴀ ᴘʏʀᴏɢʀᴀᴍ sᴛʀɪɴɢ sᴇssɪᴏɴ ᴠɪᴀ [ʀᴇᴘʟɪᴛ](https://replit.com/@ErichDaniken/Generate-Telegram-String-Session) 
 
-> Want detailed explanation of Heroku Deployment? [Click Here](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/heroku)
+## 🚀 ʜᴇʀᴏᴋᴜ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
 
-
-## 🖇 VPS Deployment
-
-> Checkout [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/local-hosting-or-vps) for Detailed Explanation on VPS Deploy
-
-
-```console
-shikhar@MacBook~ $ git clone https://github.com/TeamYukki/YukkiMusicBot
-shikhar@MacBook~ $ cd YukkiMusicBot
-shikhar@MacBook~ $ sudo bash setup
-```
-> Setup will install each and every requirement, nodejs and pip packages automatically. After successfull installation of requirements , setup will ask you to input your vars.
-> Please input your vars correctly.
-
-```console
-shikhar@MacBook~ $ bash start
-```
-
-> Not Getting VPS Method? [Watch Tutorial](https://t.me/TheYukki/2275)
+~~ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʏᴜᴋᴋɪ ᴏɴ ʜᴇʀᴏᴋᴜ~~
+    
+<a href="https://github.com/Podilisanthosh/YukkiMusicBot?organization=Podilisanthosh&organization=Podilisanthosh"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
 
 <img src="https://telegra.ph/file/6b75b57da50ef1183fcdc.jpg" align="center">
@@ -138,8 +111,5 @@ Special thanks to these amazing projects/people which/who help power Yukki Music
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
 - [CallsMusic Team](https://github.com/Callsmusic)
-- [TheHamkerCat](https://github.com/TheHamkerCat)
-- [Charon Baglari](https://github.com/XCBv021)
-
 
 Reminder that you are great, you are enough, and your presence is valued. If you are struggling with your mental health, please reach out to someone you love and consult a professional.
