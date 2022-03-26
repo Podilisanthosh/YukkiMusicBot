@@ -1,6 +1,8 @@
   <img src="https://telegra.ph/file/52771fab9aa447154ecfd.jpg" align="right" width="200" height="200"/>
 
 # sᴀɴᴛʜᴜ ᴍᴜsɪᴄ ʙᴏᴛ
+
+
  
 [sᴀɴᴛʜᴜ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/Podilisanthosh/YukkiMusicBot?organization=Podilisanthosh&organization=Podilisanthosh) ɪs ᴀ ᴘᴏᴡᴇʀғᴜʟ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ+ᴠɪᴅᴇᴏ ʙᴏᴛ ᴡʀɪᴛᴛᴇɴ ɪɴ ᴘʏᴛʜᴏɴ ᴜsɪɴɢ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴘʏ-ᴛɢᴄᴀʟʟs ʙʏ ᴡʜɪᴄʜ ʏᴏᴜ ᴄᴀɴ sᴛʀᴇᴀᴍ sᴏɴɢs, ᴠɪᴅᴇᴏ ᴀɴᴅ ᴇᴠᴇɴ ʟɪᴠᴇ sᴛʀᴇᴀᴍs ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴄᴀʟʟs ᴠɪᴀ ᴠᴀʀɪᴏᴜs sᴏᴜʀᴄᴇs.
 
@@ -50,7 +52,7 @@
 
 ## 🚀 ʜᴇʀᴏᴋᴜ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
 
-<code>ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʏᴜᴋᴋɪ ᴏɴ ʜᴇʀᴏᴋᴜ<code>
+<code>~ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʏᴜᴋᴋɪ ᴏɴ ʜᴇʀᴏᴋᴜ~<code>
     
 
 
